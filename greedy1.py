@@ -7,7 +7,7 @@ data = list(map(int, input().split()))
 
 data.sort() # 입력 받은 수 정렬하기
 first = data[n-1] # 가장 큰수
-second = data[n-2] # 두번째 큰수
+second = data[n-2] # 두번째 큰수d
 
 result = 0
 
